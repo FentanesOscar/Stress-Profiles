@@ -1,1 +1,1 @@
-# [Mental-Health-Treatment-Adherence-Prediction](https://www.kaggle.com/datasets/poushal02/student-academic-stress-real-world-dataset)
+# [Stress Profiles of STEM College Students in Pakistan](https://www.kaggle.com/datasets/poushal02/student-academic-stress-real-world-dataset)
